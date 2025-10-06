@@ -1,0 +1,10 @@
+C:\Users\Karen Pineda\Proyecto2G\jardin\target\release\deps\bevy_macro_utils-73602c32f2c7024d.d: C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.3\src\lib.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.3\src\attrs.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.3\src\shape.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.3\src\symbol.rs
+
+C:\Users\Karen Pineda\Proyecto2G\jardin\target\release\deps\libbevy_macro_utils-73602c32f2c7024d.rlib: C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.3\src\lib.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.3\src\attrs.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.3\src\shape.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.3\src\symbol.rs
+
+C:\Users\Karen Pineda\Proyecto2G\jardin\target\release\deps\libbevy_macro_utils-73602c32f2c7024d.rmeta: C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.3\src\lib.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.3\src\attrs.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.3\src\shape.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.3\src\symbol.rs
+
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.3\src\lib.rs:
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.3\src\attrs.rs:
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.3\src\shape.rs:
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_macro_utils-0.11.3\src\symbol.rs:

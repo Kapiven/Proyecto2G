@@ -1,0 +1,8 @@
+C:\Users\Karen Pineda\Proyecto2G\jardin\target\debug\deps\bevy_render_macros-9d01f353ea0ce172.d: C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.3\src\lib.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.3\src\as_bind_group.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.3\src\extract_component.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.3\src\extract_resource.rs
+
+C:\Users\Karen Pineda\Proyecto2G\jardin\target\debug\deps\bevy_render_macros-9d01f353ea0ce172.dll: C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.3\src\lib.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.3\src\as_bind_group.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.3\src\extract_component.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.3\src\extract_resource.rs
+
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.3\src\lib.rs:
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.3\src\as_bind_group.rs:
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.3\src\extract_component.rs:
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.11.3\src\extract_resource.rs:

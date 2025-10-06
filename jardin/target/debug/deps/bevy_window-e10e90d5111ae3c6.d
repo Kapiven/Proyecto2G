@@ -1,0 +1,10 @@
+C:\Users\Karen Pineda\Proyecto2G\jardin\target\debug\deps\bevy_window-e10e90d5111ae3c6.d: C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.3\src\lib.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.3\src\cursor.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.3\src\event.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.3\src\raw_handle.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.3\src\system.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.3\src\window.rs
+
+C:\Users\Karen Pineda\Proyecto2G\jardin\target\debug\deps\libbevy_window-e10e90d5111ae3c6.rmeta: C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.3\src\lib.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.3\src\cursor.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.3\src\event.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.3\src\raw_handle.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.3\src\system.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.3\src\window.rs
+
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.3\src\lib.rs:
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.3\src\cursor.rs:
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.3\src\event.rs:
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.3\src\raw_handle.rs:
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.3\src\system.rs:
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_window-0.11.3\src\window.rs:

@@ -1,0 +1,10 @@
+C:\Users\Karen Pineda\Proyecto2G\jardin\target\release\deps\hexasphere-2e6a9bf626fff6d6.d: C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hexasphere-8.1.0\src\lib.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hexasphere-8.1.0\src\interpolation.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hexasphere-8.1.0\src\shapes.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hexasphere-8.1.0\src\slice.rs
+
+C:\Users\Karen Pineda\Proyecto2G\jardin\target\release\deps\libhexasphere-2e6a9bf626fff6d6.rlib: C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hexasphere-8.1.0\src\lib.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hexasphere-8.1.0\src\interpolation.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hexasphere-8.1.0\src\shapes.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hexasphere-8.1.0\src\slice.rs
+
+C:\Users\Karen Pineda\Proyecto2G\jardin\target\release\deps\libhexasphere-2e6a9bf626fff6d6.rmeta: C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hexasphere-8.1.0\src\lib.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hexasphere-8.1.0\src\interpolation.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hexasphere-8.1.0\src\shapes.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hexasphere-8.1.0\src\slice.rs
+
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hexasphere-8.1.0\src\lib.rs:
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hexasphere-8.1.0\src\interpolation.rs:
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hexasphere-8.1.0\src\shapes.rs:
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\hexasphere-8.1.0\src\slice.rs:

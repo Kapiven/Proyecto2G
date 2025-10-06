@@ -1,0 +1,1 @@
+C:\Users\Karen\ Pineda\Proyecto2G\jardin\target\release\jardin_3d.exe: C:\Users\Karen\ Pineda\Proyecto2G\jardin\src\garden.rs C:\Users\Karen\ Pineda\Proyecto2G\jardin\src\main.rs C:\Users\Karen\ Pineda\Proyecto2G\jardin\src\player.rs

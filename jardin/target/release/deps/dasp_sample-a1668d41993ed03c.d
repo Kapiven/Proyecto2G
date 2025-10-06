@@ -1,0 +1,10 @@
+C:\Users\Karen Pineda\Proyecto2G\jardin\target\release\deps\dasp_sample-a1668d41993ed03c.d: C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\lib.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\conv.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\ops.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\types.rs
+
+C:\Users\Karen Pineda\Proyecto2G\jardin\target\release\deps\libdasp_sample-a1668d41993ed03c.rlib: C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\lib.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\conv.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\ops.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\types.rs
+
+C:\Users\Karen Pineda\Proyecto2G\jardin\target\release\deps\libdasp_sample-a1668d41993ed03c.rmeta: C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\lib.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\conv.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\ops.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\types.rs
+
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\lib.rs:
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\conv.rs:
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\ops.rs:
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\dasp_sample-0.11.0\src\types.rs:

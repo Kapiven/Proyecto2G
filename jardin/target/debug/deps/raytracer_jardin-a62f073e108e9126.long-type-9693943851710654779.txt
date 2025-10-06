@@ -1,0 +1,1 @@
+for<'a, 'b, 'c> fn(bevy::prelude::Commands<'a, 'b>, bevy::prelude::ResMut<'c, bevy::prelude::Assets<bevy::prelude::StandardMaterial>>) {materials::add_materials}

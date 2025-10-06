@@ -1,0 +1,9 @@
+C:\Users\Karen Pineda\Proyecto2G\jardin\target\debug\deps\accesskit_consumer-f66abc423cbd4828.d: C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.15.2\src\lib.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.15.2\src\tree.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.15.2\src\node.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.15.2\src\iterators.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.15.2\src\text.rs
+
+C:\Users\Karen Pineda\Proyecto2G\jardin\target\debug\deps\libaccesskit_consumer-f66abc423cbd4828.rmeta: C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.15.2\src\lib.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.15.2\src\tree.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.15.2\src\node.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.15.2\src\iterators.rs C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.15.2\src\text.rs
+
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.15.2\src\lib.rs:
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.15.2\src\tree.rs:
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.15.2\src\node.rs:
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.15.2\src\iterators.rs:
+C:\Users\Karen\ Pineda\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\accesskit_consumer-0.15.2\src\text.rs:

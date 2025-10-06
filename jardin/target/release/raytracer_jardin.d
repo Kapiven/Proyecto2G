@@ -1,0 +1,1 @@
+C:\Users\Karen\ Pineda\Proyecto2G\jardin\target\release\raytracer_jardin.exe: C:\Users\Karen\ Pineda\Proyecto2G\jardin\src\main.rs C:\Users\Karen\ Pineda\Proyecto2G\jardin\src\materials.rs C:\Users\Karen\ Pineda\Proyecto2G\jardin\src\player.rs C:\Users\Karen\ Pineda\Proyecto2G\jardin\src\scene.rs
