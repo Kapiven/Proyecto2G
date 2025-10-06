@@ -1,1 +1,1 @@
-![Demo del proyecto](assets/demo.gif)
+![Demo del proyecto](jardin/demo.gif)
